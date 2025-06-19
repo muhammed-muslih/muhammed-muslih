@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Muhammed Muslih
 
-'m a Full Stack Developer with a strong command of the MERN stack (MongoDB, Express.js, React.js, Node.js). I’m passionate about crafting responsive, high-performance web applications and writing clean, maintainable code. I enjoy solving complex problems and continuously learning new technologies to stay at the edge of modern web development.
+I'm a Full Stack Developer with a strong command of the MERN stack (MongoDB, Express.js, React.js, Node.js). I’m passionate about crafting responsive, high-performance web applications and writing clean, maintainable code. I enjoy solving complex problems and continuously learning new technologies to stay at the edge of modern web development.
 
 ---
 
